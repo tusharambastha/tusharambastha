@@ -104,7 +104,6 @@ An interactive project focused on using **AR and immersive technology for safety
 | **Focus** | AR / Interactive Learning |
 | **Type** | Application / Prototype |
 | **Goal** | Improve safety training through interactive experiences |
-| **Repository** | [View Repository](https://github.com/tusharambastha/SurakshaAR) |
 
 </details>
 
@@ -122,7 +121,7 @@ An AI-powered concept designed to help users understand **government scheme elig
 | **Focus** | AI / LLM / Web |
 | **Type** | AI-powered application |
 | **Goal** | Simplify government scheme eligibility discovery |
-| **Repository** | [View Repository](https://github.com/OIST-ACM-AOC-ParadoxSmashers) |
+| **Team** | OIST ACM AOC Paradox Smashers |
 
 </details>
 
